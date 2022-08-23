@@ -1,0 +1,15 @@
+C:\обучение\Новая папка18.08\38_36_34\bin\Debug\net6.0\38_36_34.exe
+C:\обучение\Новая папка18.08\38_36_34\bin\Debug\net6.0\38_36_34.deps.json
+C:\обучение\Новая папка18.08\38_36_34\bin\Debug\net6.0\38_36_34.runtimeconfig.json
+C:\обучение\Новая папка18.08\38_36_34\bin\Debug\net6.0\38_36_34.dll
+C:\обучение\Новая папка18.08\38_36_34\bin\Debug\net6.0\38_36_34.pdb
+C:\обучение\Новая папка18.08\38_36_34\obj\Debug\net6.0\38_36_34.csproj.AssemblyReference.cache
+C:\обучение\Новая папка18.08\38_36_34\obj\Debug\net6.0\38_36_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\обучение\Новая папка18.08\38_36_34\obj\Debug\net6.0\38_36_34.AssemblyInfoInputs.cache
+C:\обучение\Новая папка18.08\38_36_34\obj\Debug\net6.0\38_36_34.AssemblyInfo.cs
+C:\обучение\Новая папка18.08\38_36_34\obj\Debug\net6.0\38_36_34.csproj.CoreCompileInputs.cache
+C:\обучение\Новая папка18.08\38_36_34\obj\Debug\net6.0\38_36_34.dll
+C:\обучение\Новая папка18.08\38_36_34\obj\Debug\net6.0\refint\38_36_34.dll
+C:\обучение\Новая папка18.08\38_36_34\obj\Debug\net6.0\38_36_34.pdb
+C:\обучение\Новая папка18.08\38_36_34\obj\Debug\net6.0\38_36_34.genruntimeconfig.cache
+C:\обучение\Новая папка18.08\38_36_34\obj\Debug\net6.0\ref\38_36_34.dll
