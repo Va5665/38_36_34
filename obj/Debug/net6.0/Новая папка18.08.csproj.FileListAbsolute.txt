@@ -1,0 +1,5 @@
+C:\обучение\Новая папка18.08\obj\Debug\net6.0\Новая папка18.08.csproj.AssemblyReference.cache
+C:\обучение\Новая папка18.08\obj\Debug\net6.0\Новая папка18.08.GeneratedMSBuildEditorConfig.editorconfig
+C:\обучение\Новая папка18.08\obj\Debug\net6.0\Новая папка18.08.AssemblyInfoInputs.cache
+C:\обучение\Новая папка18.08\obj\Debug\net6.0\Новая папка18.08.AssemblyInfo.cs
+C:\обучение\Новая папка18.08\obj\Debug\net6.0\Новая папка18.08.csproj.CoreCompileInputs.cache
