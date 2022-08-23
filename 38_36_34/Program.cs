@@ -8,10 +8,9 @@
  double min = Int32.MaxValue;  // число с запятой дабл - мин
 double max = Int32.MinValue;   // число с запятой дабл - мин
 
- for (int i = 0; i < numbers.Length; i++) //  цикл,                0123456
-                                                                  // 3892059
+ for (int i = 0; i < numbers.Length; i++) //  цикл,                
  {
-    if (numbers[i] > max)        // если номер  макс 
+    if (numbers[i] > max)       
         {
             max = numbers[i];
 
@@ -32,7 +31,7 @@ void FillArrayRandomNumbers(double[] numbers) // Мы хотим рандомн�
 {
     for(int i = 0; i < numbers.Length; i++)  // цикл переберает все индексы 
         {
-            numbers[i] = Convert.ToDouble(new Random().Next(100,1000)) / 100;  //  в деопазоне от 1 до 10
+            numbers[i] = Convert.ToDouble(new Random().Next(100,1000)) / 100;  //  в деопазоне от 100 до 999
         }
 }
  
