@@ -3,15 +3,7 @@
 //  которая покажет количество чётных чисел в массиве.
 // _____________________________________________________________________________________________________________________
 
- int size = Convert.ToInt32(Console.ReadLine()); 
- int [] array = new int[size];      
- for (int i = 0; i < array.Length; i++) 
- {
-   array[i] = new Random().Next(0, 1000);
-   System.Console.Write($"{array[i]}, ");
- }
- 
-Console.WriteLine("Введите размер массива");
+ Console.WriteLine("Введите размер массива");
 int size = Convert.ToInt32(Console.ReadLine());
 int[] numbers = new int[size];
 FillArrayRandomNumbers(numbers);
@@ -42,3 +34,5 @@ void PrintArray(int[] numbers)
     Console.Write("]");
     Console.WriteLine();
 }
+
+
